@@ -1,0 +1,1 @@
+/data/tchari/fastqs/fs_R2_nem14.fastq.gz,/data/tchari/fastqs/fs_R2_nem23.fastq.gz

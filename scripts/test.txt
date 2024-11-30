@@ -1,0 +1,1 @@
+/data/tchari/fastqs/stim_1to2_R1.fastq.gz:/data/tchari/fastqs/stim_1to2_R2.fastq.gz,/data/tchari/fastqs/stim_3to4_R1.fastq.gz:/data/tchari/fastqs/stim_3to4_R2.fastq.gz

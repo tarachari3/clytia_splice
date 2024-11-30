@@ -1,0 +1,8 @@
+https://data.caltech.edu/records/sa6zd-bre59/files/FT-SA22418_S1_L001_R1_001.fastq.gz
+https://data.caltech.edu/records/yq9bb-b5103/files/FT-SA22418_S1_L001_R2_001.fastq.gz
+https://data.caltech.edu/records/zdtba-b1a73/files/FT-SA22418_S1_L002_R1_001.fastq.gz
+https://data.caltech.edu/records/9htjh-wf664/files/FT-SA22418_S1_L002_R2_001.fastq.gz
+https://data.caltech.edu/records/j45p2-4hz90/files/FT-SA22419_S2_L001_R1_001.fastq.gz
+https://data.caltech.edu/records/tyy62-y9978/files/FT-SA22419_S2_L001_R2_001.fastq.gz
+https://data.caltech.edu/records/baztv-fne39/files/FT-SA22419_S2_L002_R1_001.fastq.gz
+https://data.caltech.edu/records/zz59e-kka49/files/FT-SA22419_S2_L002_R2_001.fastq.gz

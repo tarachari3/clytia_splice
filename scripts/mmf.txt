@@ -1,0 +1,1 @@
+/data/tchari/fastqs/MMF_1.fastq.gz,/data/tchari/fastqs/MMF_2.fastq.gz

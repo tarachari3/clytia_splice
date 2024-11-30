@@ -1,0 +1,1 @@
+/data/tchari/rmats_out/rmats_nem_starv_2_tmp/nem_bam2_1/Aligned.sortedByCoord.out.bam,/data/tchari/rmats_out/rmats_nem_starv_2_tmp/nem_bam2_2/Aligned.sortedByCoord.out.bam
